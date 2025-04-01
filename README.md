@@ -69,7 +69,7 @@ PDF-QA-Bot/
 - **`download_transcript`**: Generates a downloadable text file of the entire Q&A session.
 - **`main`**: Orchestrates the Streamlit app layout, capturing the OpenAI API key, handling PDF uploads, and providing the Q&A interface.
 
-## Contributing
+## Contributions
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and open a pull request. Please ensure your changes follow the existing style and include any necessary documentation or tests.
 
