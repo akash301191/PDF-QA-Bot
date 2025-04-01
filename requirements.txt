@@ -1,3 +1,2 @@
 streamlit==1.44.0
-chromadb==0.5.23
 embedchain==0.1.128
