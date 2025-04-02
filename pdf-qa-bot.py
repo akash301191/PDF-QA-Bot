@@ -57,7 +57,7 @@ def download_transcript() -> None:
     transcript = st.session_state.get("transcript", "")
     if transcript:
         st.download_button(
-            label="Download Transcript",
+            label="Download Conversation Transcript",
             data=transcript,
             file_name="pdf-qa-transcript.txt",
             mime="text/plain"
