@@ -48,7 +48,7 @@ def ask_question(app: App) -> None:
         if "transcript" not in st.session_state:
             st.session_state.transcript = ""
         # Append Q&A pair to the transcript
-        st.session_state.transcript += f"Q: {prompt}\nA: {answer}\n\n"
+        st.session_state.transcript += f"Query: {prompt}\nResponse: {answer}\n\n"
 
 def download_transcript() -> None:
     """
