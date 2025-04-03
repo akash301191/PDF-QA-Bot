@@ -31,7 +31,7 @@ PDF-QA-Bot/
 
 1. **Clone the repository** (or download it):
    ```bash
-   git clone https://github.com/akash301191/pdf-qa-bot.git
+   git clone https://github.com/akash301191/PDF-QA-Bot.git
    cd pdf-qa-bot
    ```
 
