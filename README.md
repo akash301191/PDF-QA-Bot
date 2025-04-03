@@ -32,7 +32,7 @@ PDF-QA-Bot/
 1. **Clone the repository** (or download it):
    ```bash
    git clone https://github.com/akash301191/PDF-QA-Bot.git
-   cd pdf-qa-bot
+   cd PDF-QA-Bot
    ```
 
 2. **(Optional) Create and activate a virtual environment**:
